@@ -110,3 +110,16 @@ Gracias, Rodo. You made our community and our lives better.
 <div align="center">
 <img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
 </div>
+
+## Audra Montenegro
+
+Though writing with a heavy heart, I know Rodolfo, aka Rodo's, memory will live on. He had a kind and gentle personality, yet he was very passionate about the cloud native community, and that passion shone through all his efforts. Whether he was on a Kubernetes Release Team, contributing to the Spanish Cloud Native Glossary, or serving as a KCD and CNCG organizer, he gave a lot of his spare time to the CNCF ecosystem, and we will be forever grateful.
+
+I had the pleasure of working with Rodo during the preparations for KCD Guadalajara 2024 and 2025. He was always calm under pressure and got things done. His ambassadorship shone through in his honesty and transparency.
+
+I feel honored to have known him, even if it was for a short two years. He will certainly be missed by this community.
+
+<div align="center">
+<img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
+</div>
+
